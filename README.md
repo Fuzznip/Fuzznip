@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Fuzznip/Fuzznip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,3 +14,5 @@ Here are some ideas to get you started:
 -->
 
 [![Fuzznip's github stats](https://github-readme-stats.vercel.app/api?username=fuzznip)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fuzznip)](https://github.com/anuraghazra/github-readme-stats)
